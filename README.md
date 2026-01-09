@@ -8,16 +8,12 @@ Não é conferência.
 Não precisa ser perfeito.  
 É sobre aprender junto.
 
----
-
 ## 🎯 Objetivo
 
 - Incentivar o compartilhamento de conhecimento técnico
 - Criar um espaço seguro para apresentar ideias e experiências
 - Manter um histórico das talks já apresentadas
 - Estimular aprendizado contínuo no time
-
----
 
 ## 💡 O que pode virar uma talk?
 
@@ -34,8 +30,6 @@ Exemplo:
 > **Produtividade no terminal com ZSH**  
 > Conceitos, setup, plugins e exemplos práticos.
 
----
-
 ## 📝 Como propor uma apresentação
 
 1. Abra uma **Issue** neste repositório
@@ -43,8 +37,6 @@ Exemplo:
 3. Preencha com uma ideia simples (título + proposta já basta)
 
 Outras pessoas podem comentar, sugerir melhorias ou demonstrar interesse 👍
-
----
 
 ## 📅 Como funciona a seleção
 
@@ -58,15 +50,11 @@ Usamos labels para indicar o status da proposta:
 - `scheduled` → será a **próxima talk** do calendário
 - `done` → apresentação já realizada
 
----
-
 ## ⏱️ Formato das apresentações
 
 - Duração típica: **20 a 60 minutos**
 - Slides, vídeos, live demo ou ambos — você escolhe
 - O nível pode ser introdutório, intermediário ou avançado
-
----
 
 ## 📌 Importante
 
