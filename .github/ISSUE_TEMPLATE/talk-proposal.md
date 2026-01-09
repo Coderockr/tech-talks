@@ -6,11 +6,9 @@ labels: ["proposal"]
 assignees: []
 ---
 
-## 📌 Título da apresentação
+## 📌 Título
 
-<!-- Um título claro e direto -->
-
----
+<!-- Um título claro e direto, que dê uma boa ideia do que se trata. -->
 
 ## 🧠 Proposta
 
@@ -23,8 +21,6 @@ Exemplo:
 os principais plugins e alguns exemplos práticos do dia a dia."
 -->
 
----
-
 ## 🛠️ Formato
 
 <!--
@@ -32,8 +28,6 @@ Como você imagina apresentar essa talk?
 Pode ser slides, live demo, vídeo, misto ou qualquer formato que faça sentido para o conteúdo.
 -->
 
----
-
 ## 📝 Observações (opcional)
 
-<!-- Algo que você acha importante mencionar -->
+<!-- Qualquer coisa que você ache importante mencionar. -->
