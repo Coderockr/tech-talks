@@ -1,0 +1,3 @@
+- **Title:** Paineis administrativos com Filament
+- **Issue:** https://github.com/Coderockr/tech-talks/issues/3
+- **Repository:**
